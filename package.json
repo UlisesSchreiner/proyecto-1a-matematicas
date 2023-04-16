@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-1a-matematicas",
+  "version": "1.0.0",
+  "description": "pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesSchreiner/proyecto-1a-matematicas.git"
+  },
+  "keywords": [
+    "math",
+    "matematicas"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UlisesSchreiner/proyecto-1a-matematicas/issues"
+  },
+  "homepage": "https://github.com/UlisesSchreiner/proyecto-1a-matematicas#readme"
+}
